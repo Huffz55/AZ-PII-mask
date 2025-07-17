@@ -10,7 +10,7 @@ A tiny Python script that finds personally‑identifiable information (PII) in A
 
 ```bash
 # clone or download the repo
-python pii_masker.py                   # runs the demo inside the script
+python main.py             
 ```
 
 No external dependencies – uses only Python 3 standard library (`re`, `json`, `base64`).
